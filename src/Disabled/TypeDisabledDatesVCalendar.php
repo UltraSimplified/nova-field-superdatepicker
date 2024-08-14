@@ -1,8 +1,8 @@
 <?php
 
-namespace IziDev\VCalendar\Disabled;
+namespace UltraSimplified\VCalendar\Disabled;
 
-use IziDev\VCalendar\Interval\IntervalDatesVCalendar;
+use UltraSimplified\VCalendar\Interval\IntervalDatesVCalendar;
 
 abstract class TypeDisabledDatesVCalendar implements DisabledDatesVCalendar
 {

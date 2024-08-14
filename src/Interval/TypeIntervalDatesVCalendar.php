@@ -1,6 +1,6 @@
 <?php
 
-namespace IziDev\VCalendar\Interval;
+namespace UltraSimplified\VCalendar\Interval;
 
 abstract class TypeIntervalDatesVCalendar implements IntervalDatesVCalendar
 {

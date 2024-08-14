@@ -1,8 +1,8 @@
 <?php
 
-namespace IziDev\VCalendar\Attributes;
+namespace UltraSimplified\VCalendar\Attributes;
 
-use IziDev\VCalendar\Popover\PopoverVCalendar;
+use UltraSimplified\VCalendar\Popover\PopoverVCalendar;
 
 class HighlightAttributeVCalendar extends TypeAttributeVCalendar
 {

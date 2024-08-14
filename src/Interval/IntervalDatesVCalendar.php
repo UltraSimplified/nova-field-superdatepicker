@@ -1,6 +1,6 @@
 <?php
 
-namespace IziDev\VCalendar\Interval;
+namespace UltraSimplified\VCalendar\Interval;
 
 interface IntervalDatesVCalendar
 {

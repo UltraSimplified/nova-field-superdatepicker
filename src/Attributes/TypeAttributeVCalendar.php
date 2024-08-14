@@ -1,9 +1,9 @@
 <?php
 
-namespace IziDev\VCalendar\Attributes;
+namespace UltraSimplified\VCalendar\Attributes;
 
 use DateTime;
-use IziDev\VCalendar\Popover\PopoverVCalendar;
+use UltraSimplified\VCalendar\Popover\PopoverVCalendar;
 
 class TypeAttributeVCalendar implements AttributeVCalendar
 {

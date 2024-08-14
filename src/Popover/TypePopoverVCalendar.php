@@ -1,6 +1,6 @@
 <?php
 
-namespace IziDev\VCalendar\Popover;
+namespace UltraSimplified\VCalendar\Popover;
 
 abstract class TypePopoverVCalendar implements PopoverVCalendar
 {

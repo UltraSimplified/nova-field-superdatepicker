@@ -1,6 +1,6 @@
 <?php
 
-namespace IziDev\VCalendar\Disabled;
+namespace UltraSimplified\VCalendar\Disabled;
 
 class WeeksDisabledDatesVCalendar extends TypeDisabledDatesVCalendar
 {

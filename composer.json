@@ -1,34 +1,35 @@
 {
-    "name": "izi-dev/nova-field-date-picker",
-    "description": "Field Date based on https://vcalendar.io/",
-    "keywords": [
-        "laravel",
-        "nova",
-        "date",
-        "picker",
-        "field",
-        "v-calendar",
-        "vue"
-    ],
-    "license": "MIT",
-    "require": {
-        "php": ">=7.1.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "IziDev\\VCalendar\\": "src/"
-        }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "IziDev\\VCalendar\\FieldServiceProvider"
-            ]
-        }
-    },
-    "config": {
-        "sort-packages": true
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+  "name": "ultrasimplified/nova-field-superdatepicker",
+  "description": "Field Date based on https://vcalendar.io/",
+  "keywords": [
+    "laravel",
+    "nova",
+    "date",
+    "picker",
+    "field",
+    "v-calendar",
+    "vue"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1.0",
+    "laravel/nova": "^4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "UltraSimplified\\VCalendar\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "UltraSimplified\\VCalendar\\FieldServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
